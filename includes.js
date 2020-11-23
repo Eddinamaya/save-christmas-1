@@ -25,3 +25,4 @@ console.log(includes(items, 'Lego')) // Should be true
 console.log(includes(items, 'Teddybear')) // Should be true
 console.log(includes(items, 'Laser sword')) // Should be false
 console.log(includes(items, 'Playstation')) // Should be false
+}
